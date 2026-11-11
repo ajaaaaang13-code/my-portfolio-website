@@ -9,7 +9,7 @@
 
 
     const WEB3FORMS_ACCESS_KEY = "b6bff544-d968-4555-981f-8c273e0ba750";
-    const SITE_KEY = "6LcKkBouAAAAAEa_IricL2m3hHN0ZZCvFGOru6R2";
+    const SITE_KEY = "6LdovRouAAAAAOefqW2Xg5gNnXUPWTauTcKgmXiM";
     // Initial value for the email:
     const subject = "New message from Portfolio Contact Form";
 
